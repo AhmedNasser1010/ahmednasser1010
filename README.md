@@ -1,3 +1,5 @@
+<img src="bg.png" alt="background" />
+
 # 💫 About Me:
 🔭 I'm currently working on OrderSync project<br>👯 I'm looking to collaborate on new team<br>🤝 I'm looking for help with my project<br>🌱 I'm currently learning web development<br>💬 Ask me about my projects<br>⚡ Fun fact the first website was created in 1991
 
